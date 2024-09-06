@@ -16,7 +16,7 @@
 }
 
 .profile-box{
-    background: #4c89af;
+    background: linear-gradient(90deg, rgb(82, 117, 162) 5%, rgb(234, 234, 235) 100%);
     text-align: center;
     padding: 40px 90px;
     color: #fff;
